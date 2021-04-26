@@ -14,3 +14,7 @@ The pieces of code I found to be the most challenging to write was the code for 
 
 #What skills from this project will be particularly transferable to other projects or course work?
 The skills from this project that will be particularly transferable to other course work are the skills of using in-line comments and also using appropriate variable, parameter, and other naming conventions while coding in order to ensure clarity, efficiency, and consistency. 
+
+#How did you make this program maintainable, readable, and adaptable?
+
+I made this program maintainable, readable, and adaptable by having a consistent naming scheme with variables. I also made sure the code I wrote was easy to modify and test.  
